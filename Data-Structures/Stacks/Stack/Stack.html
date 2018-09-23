@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+ <head> <title> Stack Operations </title> </head>
+ <body>
+  <form id="userinput"> <table>
+   <tr>
+    <td> </td> <td colspan="2"> <p> MENU : </p> </td>
+   </tr>
+   <tr>
+    <td> <p> 1. </p> </td>
+    <td> <button type="button" style="width:100%" onclick="s1()"> Push </button> </td>
+    <td> <input type="text" id="push"> </td> 	
+   </tr>
+   <tr>
+    <td> <p> 2. </p> </td>
+    <td> <button type="button" style="width:100%" onclick="s2()"> Pop </button> </td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td> </td> <td colspan="2"> <p id="output"> </p> </td>
+   </tr>
+  </table> </form>
+  <script>
+   var stack=new Array();
+   var text="";
+   
+   function s1(){
+    stack.push(document.forms["userinput"]["push"].value);
+    text="The stack is : ";
+    s3();
+   }
+    
+   function s2(){
+    if(stack.length>0){
+     text="Popped value is '"+stack.pop()+"'";
+     s3();
+    }
+    else
+     text="Stack is underflowing!";
+    document.getElementById("output").innerHTML=text;
+   }
+   
+   function s3(){
+    if(stack.length>0){
+     for(i=stack.length-1;i>=0;i--){
+      text+="<br><br>"+stack[i];
+     }
+    }
+    else
+     text="Stack is underflowing!";
+    document.getElementById("output").innerHTML=text;
+   }
+  </script>
+ </body>
+</html>

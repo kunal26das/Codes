@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+ <head> <title> ASCII Code </title> </head>
+ <body>
+  <table>
+   <tr>
+    <td> <p> Enter a character : </p> </td>
+    <td> <form id="userinput"> <input type="text" id="character"> </form> </td>
+    <td> <button type="button" onclick="ASCII()"> Check </button> </td>				
+   </tr>
+   <tr>
+    <td colspan="3"> <p id="output"> </p> </td>
+   </tr>
+  </table>
+  <script>
+   function ASCII(){
+    var ch=document.forms["userinput"]["character"].value;
+    var n=ch.charCodeAt(0);
+    var text="ASCII code of '"+ch[0]+"' is "+n+".";
+    document.getElementById("output").innerHTML=text;
+   }
+  </script>
+ </body>
+</html>

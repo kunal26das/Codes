@@ -1,0 +1,5 @@
+A-Star Search
+Minimax
+Mnimiax (Alpha-Beta Pruning)
+Monte-Carlo Tree Search
+Uniform Cost Search

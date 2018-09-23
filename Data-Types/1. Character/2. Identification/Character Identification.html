@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+ <head> <title> Character Identification </title> </head>
+ <body>
+  <table>
+   <tr>
+    <td> <p> Enter a character : </p> </td>
+    <td> <form id="userinput"> <input type="text" id="character"> </form> </td>
+    <td> <button type="button" onclick="identifier()"> Check </button> </td>				
+   </tr>
+   <tr>
+    <td colspan="3"> <p id="output"> </p> </td>
+   </tr>
+  </table>
+  <script>
+   function identifier(){
+    var ch=document.forms["userinput"]["character"].value;
+    var n=ch.charCodeAt(0);
+    var text="'"+ch[0]+"' is ";
+    if(n>=48 && n<=57)
+     text+="a numeral digit.";
+    else if(n>=65 && n<=90)
+     text+="an uppercase alphabet.";
+    else if(n>=97 && n<=122)
+     text+="a lowercase alphabet.";
+    else
+     text+="a special character.";
+    document.getElementById("output").innerHTML=text;
+   }
+  </script>
+ </body>
+</html>
