@@ -10,17 +10,59 @@
   - String
 - Containers
   - Array
+    - Traversal
+    - Searching
+    - Insertion
+    - Deletion
+    - Sorting
+      - Binary Search Sort
+      - Bubble Sort
+      - Heap Sort
+      - Insertion Sort
+      - Merge Sort
+      - Quick Sort
+      - Selection Sort
+    - Sub-array
+      - Contiguous Sub-array
+      - Non-contiguous Sub-array
   - Matrices
+    - Addition
+    - Subtraction
+    - Multiplication
+    - Sparse Matrix
   - Lists
+    - Singly Linked-List
+    - Doubly Linked-List
+    - Multi Linked-List
+    - Jagged Linked-List
   - Hash Maps
+    - Linear Probing
+    - Quadratic Probing
+    - Separate Chaining
 - Data Structures
   - Stack
     - Array as a Stack ([C](Data-Structures/Stacks/Stack/Stack.c) [C++](Data-Structures/Stacks/Stack/Stack.cpp) [Java](Data-Structures/Stacks/Stack/Stack.java) [Python](Data-Structures/Stacks/Stack/Stack.py))
     - Linked-List as a Stack
-      - Singly-Linked-Stack ([C](Data-Structures/Stacks/Stack/Singly-Linked-Stack.c) [C++](Data-Structures/Stacks/Stack/Singly-Linked-Stack.cpp) [Java](Data-Structures/Stacks/Stack/Singly-Linked-Stack.java) [Python](Data-Structures/Stacks/Stack/Singly-Linked-Stack.py))
-      - Doubly-Linked-Stack
+      - Singly Linked-List as a Stack ([C](Data-Structures/Stacks/Stack/Singly-Linked-Stack.c) [C++](Data-Structures/Stacks/Stack/Singly-Linked-Stack.cpp) [Java](Data-Structures/Stacks/Stack/Singly-Linked-Stack.java) [Python](Data-Structures/Stacks/Stack/Singly-Linked-Stack.py))
+      - Doubly Linked-Stack
   - Queue
+    - Array as a Queue
+    - Array as a Circular-Queue
+    - Linked-List as a Queue
+    - Linked-List as a Circular Queue
   - Graph
+    - Trees
+      - Binary Tree
+      - Binary-Search Tree
+      - AVL Tree
+      - Red-Black Tree
+      - B-Tree
+      - Interval Tree
+      - Segmented Tree
+    - Heaps
+      - Binary Heap
+      - Binomial Heap
+      - K-ary Heap
 - Dynamic Programming
   - Knapsack
 - Backtracking
