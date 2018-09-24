@@ -1,3 +1,3 @@
 # Codes
-*Mathematics
+* Mathematics
 [Link](Data-Structures/Stacks/Stack/Stack.c)
