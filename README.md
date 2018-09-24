@@ -4,7 +4,7 @@
 - Containers
 - Data Structures
   - Array as a Stack
-    - [Stack](Data-Structures/Stacks/Stack/Stack.c)
+    - [Stack.c](Data-Structures/Stacks/Stack/Stack.c)
 - Dynamic Programming
 - Backtracking
 - Artificial Intelligence
