@@ -29,5 +29,11 @@
   - Rat in a Maze
   - Tower of Hanoi
 - Artificial Intelligence
+  - A* Search
+  - Minimax
+    - Minimax
+    - Alpha-Beta Pruning
+  - Monte-Carlo Tree Search
+  - Uniform Cost Search
 
 Footer
