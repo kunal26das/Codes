@@ -1,5 +1,15 @@
 # Codes
 - [Mathematics](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
+  - Arithmetic Functions
+    - Addition
+    - Subtraction
+    - Multiplication
+    - Division
+    - Square Root
+    - Modular Exponentation
+  - Number Theory
+    - Greatest Common Divisor
+    - Factorial
   - Number System
   - Fibonacci Series
   - Sieve of Eratosthenes
@@ -29,6 +39,10 @@
     - Addition
     - Subtraction
     - Multiplication
+      - Schoolbook Matrix Multiplication
+      - Strassen Algorithm
+    - Matrix Inversion
+    - Determinant
     - Sparse Matrix
   - Lists
     - Singly Linked-List
