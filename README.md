@@ -78,4 +78,4 @@
   - Monte-Carlo Tree Search
   - Uniform Cost Search
 
-#FINISH
+# END-OF-FILE
