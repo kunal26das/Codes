@@ -8,7 +8,8 @@
     - Square Root
     - Modular Exponentation
   - Number Theory
-    - Greatest Common Divisor
+    - Greatest Common Divisor/Highest Common Factor
+    - Lowest Common Multiple
     - Factorial
   - Number System
   - Fibonacci Series
