@@ -8,8 +8,8 @@
     - Square Root
     - Modular Exponentation
   - Number Theory
-    - Greatest Common Divisor/Highest Common Factor
-    - Lowest Common Multiple
+    - GCD/HCF
+    - LCM
     - Factorial
   - Number System
   - Fibonacci Series
