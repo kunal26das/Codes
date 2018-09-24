@@ -1,7 +1,18 @@
 # Codes
 - Mathematics
+  - Number System
+  - Fibonacci Series
+  - Sieve of Eratosthenes
+  - Pascal's Traingle
+  - Collatz Conjecture
 - Data Types
+  - Character
+  - String
 - Containers
+  - Array
+  - Matrices
+  - Lists
+  - Hash Maps
 - Data Structures
   - Stack
     - Array as a Stack ([C](Data-Structures/Stacks/Stack/Stack.c) [C++](Data-Structures/Stacks/Stack/Stack.cpp) [Java](Data-Structures/Stacks/Stack/Stack.java) [Python](Data-Structures/Stacks/Stack/Stack.py))
@@ -11,6 +22,7 @@
   - Queue
   - Graph
 - Dynamic Programming
+  - Knapsack
 - Backtracking
   - Knight's Tour
   - N-Queens Problem
