@@ -8,6 +8,8 @@
     - Linked-List as a Stack
       - Singly-Linked-Stack ([C](Data-Structures/Stacks/Stack/Singly-Linked-Stack.c) [C++](Data-Structures/Stacks/Stack/Singly-Linked-Stack.cpp) [Java](Data-Structures/Stacks/Stack/Singly-Linked-Stack.java) [Python](Data-Structures/Stacks/Stack/Singly-Linked-Stack.py))
       - Doubly-Linked-Stack
+  - Queue
+  - Graph
 - Dynamic Programming
 - Backtracking
   - Knight's Tour
