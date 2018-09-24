@@ -56,7 +56,11 @@
     - Separate Chaining
 - Data Structures
   - Stack
-    - Array as a Stack ([C](Data-Structures/Stacks/Stack/Stack.c) [C++](Data-Structures/Stacks/Stack/Stack.cpp) [Java](Data-Structures/Stacks/Stack/Stack.java) [Python](Data-Structures/Stacks/Stack/Stack.py))
+    - Array as a Stack (
+    [C](Data-Structures/Stacks/Stack/Stack.c) 
+    [C++](Data-Structures/Stacks/Stack/Stack.cpp) 
+    [Java](Data-Structures/Stacks/Stack/Stack.java) 
+    [Python](Data-Structures/Stacks/Stack/Stack.py))
     - Linked-List as a Stack
       - Singly Linked-List as a Stack (
       [C](Data-Structures/Stacks/Stack/Singly-Linked-Stack.c) 
