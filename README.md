@@ -88,13 +88,13 @@
       - Binary Heap
       - Binomial Heap
       - K-ary Heap
-- Dynamic Programming
-  - Knapsack
 - Backtracking
   - Knight's Tour
   - N-Queens Problem
   - Rat in a Maze
   - Tower of Hanoi
+- Dynamic Programming
+  - Knapsack
 - Artificial Intelligence
   - A* Search
   - Minimax
